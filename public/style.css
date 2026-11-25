@@ -59,7 +59,7 @@ thead th { background: var(--canvas); color: var(--muted); font-size: 14px }
     main { padding-top: 28px }
     .toolbar,.editor,.empty { padding: 16px }
     .search input { width: auto; flex: 1; min-width: 100px }
-    table,tbody,tr,td,tbody th { display: block }
+    table,caption,tbody,tr,td,tbody th { display: block }
     thead { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%) }
     tr { border-top: 1px solid var(--line); padding: 12px 16px }
     td,tbody th { border: 0; padding: 3px 0 }
